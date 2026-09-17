@@ -349,7 +349,7 @@ Total de pruebas: 39
 
 ## 📝 Autor
 
-**Mélany** - Primer año de Ingeniería Informática  
+**Mélany** - Segundo año de Ingeniería Informática  
 **Universidad:** Universidad de Pinar del Río (Universidad Hermanos Saíz Montes de Oca)
 
 ---
